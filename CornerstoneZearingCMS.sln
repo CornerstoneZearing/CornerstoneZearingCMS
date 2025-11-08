@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CornerstoneZearing.Website", "CornerstoneZearing.Website\CornerstoneZearing.Website.csproj", "{26CE259A-1D63-69DE-C5C8-1924DB001A97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26CE259A-1D63-69DE-C5C8-1924DB001A97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26CE259A-1D63-69DE-C5C8-1924DB001A97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26CE259A-1D63-69DE-C5C8-1924DB001A97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26CE259A-1D63-69DE-C5C8-1924DB001A97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E472D0C8-8FD1-4801-9896-06B8DA043C09}
+	EndGlobalSection
+EndGlobal
